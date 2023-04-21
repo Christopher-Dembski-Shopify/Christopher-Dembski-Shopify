@@ -1,4 +1,4 @@
-### Hi there 👋
+### Christopher Dembski
 
 <!--
 **Christopher-Dembski-Shopify/Christopher-Dembski-Shopify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Software engineering intern at Shopify 💻
+- Computer science student at York University 🏫
+- Former professional woodwind player + teacher 🎵
+
+🔧🌱 **Tools I'm Using / Learning** 🔧🌱
+- Ruby, Rails, Python, Java, SQL, JavaScript, TypeScript, React, HTML, CSS
+
+📫 [GitHub (Shopify)](https://github.com/Christopher-Dembski-Shopify/Christopher-Dembski-Shopify/edit/main/README.md) | [GitHub (Personal)](https://github.com/christopher-dembski)
